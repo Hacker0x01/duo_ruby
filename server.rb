@@ -24,7 +24,7 @@ class DuoLoginAdapter
                 <title>Duo Authentication</title>
                 <meta name='viewport' content='width=device-width, initial-scale=1'>
                 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-                <link rel='stylesheet' type='text/css' href='css/Duo-Frame.css'>
+                <link rel='stylesheet' type='text/css' href='lib/assets/stylesheets/Duo-Frame.css'>
               </head>
               <body>
                 <h1>Duo Authentication</h1>
