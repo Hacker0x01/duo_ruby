@@ -36,7 +36,7 @@ class DuoLoginAdapter
                         data-host='#{@host}'
                         data-sig-request='#{sig_request}'>
                 </iframe>
-                <script src='js/Duo-Web-v2.js'></script>
+                <script src='lib/assets/javascripts/Duo-Web-v2.js'></script>
               </body>
             </html>
           "]
